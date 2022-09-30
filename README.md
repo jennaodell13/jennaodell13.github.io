@@ -17,3 +17,4 @@ Fashion Week is one of the most iconic events and brings a lot of attention fron
 
 Timeline Assignment: Timeline of Harry Styles at MSG for 15 Nights
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1b6qpFwx1W3j1g4JuhvDYCICFElyaIsrV_gPl5z5bQnM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
