@@ -20,7 +20,7 @@ Timeline Assignment: Timeline of Harry Styles at MSG for 15 Nights
 In class bar chart exercise:
 What were the percentages of students in each of Lehigh's undergraduate colleges in 2021?
 
-![Bar Chart Assignment](
+![Bar Chart Assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/BarChartExercise.png)
 
 
 
