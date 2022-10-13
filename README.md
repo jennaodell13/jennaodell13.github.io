@@ -26,3 +26,8 @@ What were the percentages of students in each of Lehigh's undergraduate colleges
 
 This is my Bar Chart I created on the countries that have recieved the most crowns in beauty pageant crowns. 
 ![Countries With the Most Beauty Pageant Crowns](https://raw.githubusercontent.com/jennaodell13/jennaodell13.github.io/31f72894c1abd9ba6165f656e28a97bab2501a3a/Countries_with_the_Largest_Number_of_Pageant_Crowns_Number_of_Crowns_chartbuilder.png)
+
+
+
+Bar Chart in class assignment: Changes in percentage of undergraduate enrollment per year
+![In class assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/BarChartExercise.png)
