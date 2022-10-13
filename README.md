@@ -30,6 +30,5 @@ This is my Bar Chart I created on the countries that have recieved the most crow
 
 
 Bar Chart in class assignment: Changes in percentage of undergraduate enrollment per year
-![In class assignment](https://raw.githubusercontent.com/jennaodell13/jennaodell13.github.io/6aac271337e12ffaf05641947b235293d0e7083f/_Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year_Arts_and_Sciences_Business_Engineering_chartbuilder.png)
-
+![In class assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/_Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 ![Scatter PLot In class Asssignment](https://raw.githubusercontent.com/jennaodell13/jennaodell13.github.io/758cc4a0847c0714020ef37f3a232d7ebd6e9f00/Self-reported_Life_Satisfaction_vs_GDP_per_capita_in_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png)
