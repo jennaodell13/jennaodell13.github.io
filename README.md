@@ -30,5 +30,5 @@ This is my Bar Chart I created on the countries that have recieved the most crow
 
 
 Bar Chart in class assignment: Changes in percentage of undergraduate enrollment per year
-![In class assignment](
+![In class assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/_Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year_Arts_and_Sciences_Business_Engineering_chartbuilder.png)
 
