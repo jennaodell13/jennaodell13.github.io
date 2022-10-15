@@ -34,3 +34,6 @@ Bar Chart in class assignment: Changes in percentage of undergraduate enrollment
 ![Scatter PLot In class Asssignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/Self-reported_Life_Satisfaction_vs_GDP_per_capita_in_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
 I have found in this data that the relationship between the GDP per capita and happiness is definitley correlated. Essentially, the higher the GDP per capita is, the higher the life satisfaction will be in all countries. 
+
+
+![Line Chart HW Assignment]
