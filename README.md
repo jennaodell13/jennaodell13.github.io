@@ -35,5 +35,5 @@ Bar Chart in class assignment: Changes in percentage of undergraduate enrollment
 
 I have found in this data that the relationship between the GDP per capita and happiness is definitley correlated. Essentially, the higher the GDP per capita is, the higher the life satisfaction will be in all countries. 
 
-U.S Music Genre Popularity by Volume of Sales
+![U.S Music Genre Popularity by Volume of Sales]
 ![Line Chart HW Assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/Percent_of_Popularity_Percent_of_Popularity_chartbuilder.png?raw=true)
