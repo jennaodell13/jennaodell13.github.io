@@ -15,21 +15,21 @@ Fashion Week is one of the most iconic events and brings a lot of attention fron
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1b6qpFwx1W3j1g4JuhvDYCICFElyaIsrV_gPl5z5bQnM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-Timeline Assignment: Timeline of Harry Styles at MSG for 15 Nights
+## Timeline Assignment: Timeline of Harry Styles at MSG for 15 Nights
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1b6qpFwx1W3j1g4JuhvDYCICFElyaIsrV_gPl5z5bQnM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-In class bar chart exercise:
-What were the percentages of students in each of Lehigh's undergraduate colleges in 2021?
+## In class bar chart exercise:
+### What were the percentages of students in each of Lehigh's undergraduate colleges in 2021?
 
 ![Bar Chart Assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/BarChartExercise.png)
 
 
 
-This is my Bar Chart I created on the countries that have recieved the most crowns in beauty pageant crowns. 
+## Bar Chart I created on the countries that have recieved the most crowns in beauty pageant crowns. 
 ![Countries With the Most Beauty Pageant Crowns](https://raw.githubusercontent.com/jennaodell13/jennaodell13.github.io/31f72894c1abd9ba6165f656e28a97bab2501a3a/Countries_with_the_Largest_Number_of_Pageant_Crowns_Number_of_Crowns_chartbuilder.png)
 
 
 
-Bar Chart in class assignment: Changes in percentage of undergraduate enrollment per year
+## Bar Chart in class assignment: Changes in percentage of undergraduate enrollment per year
 ![In class assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/_Changes_in_percentage_of_undergraduate_enrollment_per_college_per_year_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 ![Scatter PLot In class Asssignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/Self-reported_Life_Satisfaction_vs_GDP_per_capita_in_2017_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
