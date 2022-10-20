@@ -45,3 +45,5 @@ I have found in this data that the relationship between the GDP per capita and h
 ![Line Chart HW Assignment](https://github.com/jennaodell13/jennaodell13.github.io/blob/main/Percent_of_Popularity_Percent_of_Popularity_chartbuilder.png?raw=true)
 ## Google Map of the Top 20 The 20 Most Bike-Friendly Cities on the Planet, Ranked
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gRx8ArnaPi_1RqE3w1pH3mVyBArZMUs&ehbc=2E312F" width="640" height="480"></iframe>
+## Google Map of the Top 10 Fashion Capitals in the World
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=137mB9obJTYzQh3jJbcbboCSkYs1CWJo&ehbc=2E312F" width="640" height="480"></iframe>
