@@ -63,3 +63,5 @@ This data is interesting to look at because not only does it show the relationsh
 The spotify data represents the strategic ways that artists can implement stratgies to gain followers. Releasing certain music and their marketing strategies can result in billions of fans. Album releases are a much larger deal than a single being released. A single is a preparation for an album in most cases. However, this data is related and can explain many reasons as to why certai artists are more successful than others. 
 
 ![Pixon Comic](https://raw.githubusercontent.com/jennaodell13/jennaodell13.github.io/d29ba3742660011f9657a3d3d00294bcc2bb56dc/Screen%20Shot%202022-11-20%20at%202.20.45%20PM.png)
+
+![Pixon Comic](https://raw.githubusercontent.com/jennaodell13/jennaodell13.github.io/d29ba3742660011f9657a3d3d00294bcc2bb56dc/Screen%20Shot%202022-11-20%20at%202.21.14%20PM.png)
